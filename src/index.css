@@ -1,0 +1,15 @@
+.box{
+  border-radius: 5px;
+ 
+}
+.card-img-top{
+  height: 180px;
+  object-fit: cover;
+}
+
+.btn-box{
+  display: flex;
+  justify-content:flex-end;
+  align-items: center;
+  margin: 5px;
+}
